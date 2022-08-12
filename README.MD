@@ -2,6 +2,10 @@
 
 This is a simple example of a queue system using Queue and Redis.
 
+## Diagram Context
+
+![Diagram](https://i.imgur.com/inNo8mq.png)
+
 ## Prerequisites
 
 - [Redis](https://redis.io/)
@@ -55,3 +59,4 @@ Please note that the consumer will only process messages that are available in t
 ## Collaborators
 
 [Matías Capuano](https://github.com/maticapuano)
+[Gonzalo Telesio](https://github.com/telesiog)
