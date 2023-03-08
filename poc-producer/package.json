@@ -23,7 +23,7 @@
   "dependencies": {
     "@nestjs/bull": "^0.6.0",
     "@nestjs/common": "^8.0.0",
-    "@nestjs/core": "^8.0.0",
+    "@nestjs/core": "^9.0.5",
     "@nestjs/platform-express": "^8.0.0",
     "axios": "^0.27.2",
     "bull": "^4.8.5",
