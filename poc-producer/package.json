@@ -25,7 +25,7 @@
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
     "@nestjs/platform-express": "^8.0.0",
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "bull": "^4.8.5",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
